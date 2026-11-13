@@ -16,7 +16,7 @@
 //マクロ定義
 #define PLAYER_WIDTH  200.0f//幅
 #define PLAYER_HEIGHT 400.0f//縦
-
+//dddada
 //グローバル変数
 LPDIRECT3DTEXTURE9 g_pTexturePlayer = NULL;//テクスチャーへのポインタ
 LPDIRECT3DVERTEXBUFFER9 g_pVtxBuffPlayer = NULL;//頂点バッファ
